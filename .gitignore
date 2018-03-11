@@ -1,0 +1,13 @@
+*
+
+!*.git*
+*.swp
+
+!.vimrc
+
+!vundles.vim
+
+!colors/
+!colors/*
+
+
